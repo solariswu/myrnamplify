@@ -1,0 +1,4 @@
+type Mycounter @model {
+  id: ID!
+  value: Int
+}
